@@ -1,0 +1,6 @@
+F:\visualstudio2012\Projects\Reflection\Reflection\bin\Debug\Reflection.exe.config
+F:\visualstudio2012\Projects\Reflection\Reflection\bin\Debug\Reflection.exe
+F:\visualstudio2012\Projects\Reflection\Reflection\bin\Debug\Reflection.pdb
+F:\visualstudio2012\Projects\Reflection\Reflection\obj\Debug\Reflection.csprojResolveAssemblyReference.cache
+F:\visualstudio2012\Projects\Reflection\Reflection\obj\Debug\Reflection.exe
+F:\visualstudio2012\Projects\Reflection\Reflection\obj\Debug\Reflection.pdb
